@@ -28,4 +28,4 @@ Candidates are expected to review the provided code and:
 
 ## Contact
 
-If you have any questions about this exercise, please contact [jason@issarainstitute.org].
+If you have any questions about this exercise, please contact jason@issarainstitute.org.
